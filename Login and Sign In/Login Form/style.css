@@ -1,0 +1,40 @@
+body{
+    background-color: floralwhite;
+}
+.main{
+    align-items: center;
+    border: 2px solid rgb(54, 199, 215);
+    border-radius: 9px;
+    margin-top: 200px;
+    margin-bottom: 100px;
+    margin-right: 500px;
+    margin-left: 500px;
+    padding-bottom: 50px;
+    padding-top: 30px;
+    background-color: lightblue;
+}
+.login{
+    text-align: center;
+    padding-bottom: 9px;
+}
+.inp input{
+    margin: 8px;
+}
+.forget_password{
+    color: rgb(69, 69, 205);
+    margin-top: 5px;
+    font-size: 14px;
+    padding-left: 125px;
+    cursor: pointer;
+}
+.submit {
+    text-align: center;
+}
+.sign a{
+    text-decoration: none;
+    font-weight: 700;
+}
+.sign a:hover{
+    color: blue;
+    text-decoration: underline;
+}
